@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Daniel Faria
 
-- 🔭 Atualmente trabalho como Gestor de Tráfego
+- 🔭 Atualmente trabalho como Gestor de Tráfego na Resolv Soluções Digitais
 - 🌱 Estudando Front-End
 - 👯 E-mail: danielfaria862@gmail.com
 - 🤔 Procurando oportunidade na área de T.I
